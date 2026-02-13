@@ -19,9 +19,9 @@ export default function HostelDetails() {
                 </div>
             </div>
             {/* Main Content Container */}
-            <main className="pb-32 max-w-lg mx-auto bg-white dark:bg-slate-900 min-h-screen shadow-2xl overflow-hidden">
+            <main className="pb-32 max-w-250 mx-auto bg-white dark:bg-slate-900 min-h-screen shadow-2xl overflow-hidden">
                 {/* Hero Gallery */}
-                <div className="relative w-full aspect-[4/5] overflow-hidden">
+                <div className="relative w-full aspect-[4/2] overflow-hidden">
                     <img className="w-full h-full object-cover" data-alt="Modern hostel room with minimalist furniture" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDwnoVk8x534JwoiGbEKFbKPXVSeGAyb6P7ql70ijf3-PIYVdiy-xEIi5JPv-u795UTAZR5ttMyGas1KRagy0u1T4RzVGsXS-SQws169EeGp_oCfufzJJi09iLJbBAYPTpvb2xaf-7fm1mxX3ubdtsNNqzdfW8zXmAKf8KgrBlw5ymyI6YFTDKosAgMioDC7pOKPldcaY_Y5U5y7gUTVI1OItbuEgI9yHk9RMfF9hTMbw2byolqhx1o29jyYLV5Uj7DmYf0u8Gy-EDM" />
                     <div className="absolute bottom-4 left-0 right-0 flex justify-center gap-1.5">
                         <div className="w-6 h-1.5 bg-primary rounded-full"></div>

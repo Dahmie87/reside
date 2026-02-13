@@ -250,7 +250,7 @@ export default function Discover() {
                     <button className="px-8 py-3 bg-white dark:bg-slate-800 border-2 border-primary text-primary font-bold rounded-full hover:bg-primary hover:text-white transition-all shadow-lg shadow-primary/10">
                         Show 120 more hostels
                     </button>
-                    <p class Name="mt-4 text-xs text-slate-400 font-medium">You've viewed 4 of 124 available hostels</p>
+                    <p className="mt-4 text-xs text-slate-400 font-medium">YoU ve viewed 4 of 124 available hostels</p>
                 </div>
             </main>
             {/* Floating Map Button */}
